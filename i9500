@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <hammerhead>
+        <i9500>
             <Filename>ResurrectionRemix-M-v5.7.0-20160630-i9500.zip</Filename>
             <RomUrl
                 id="rom"
@@ -15,6 +15,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
-	</hammerhead>
+	</i9500>
     </Stable>
 </SlimOTA>
