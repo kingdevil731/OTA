@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <i9500>
-            <Filename>ResurrectionRemix-M-v5.7.0-20160704-i9500.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.0-20160707-i9500.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom Update"
-                description="Download Latest Update/rom build!">https://basketbuild.com/uploads/devs/resurrectionremix/i9500/ResurrectionRemix-M-v5.7.0-20160704-i9500.zip</RomUrl>
+                description="Download Latest Update/rom build!">https://basketbuild.com/uploads/devs/resurrectionremix/i9500/ResurrectionRemix-M-v5.7.0-20160707-i9500.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
